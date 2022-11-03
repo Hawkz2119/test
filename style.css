@@ -1,0 +1,10 @@
+body{
+    background-color: blueviolet;
+}
+p{
+    font-size: x-large;
+}
+#Check{
+    display: flex;
+    margin-top: 40px;
+}
